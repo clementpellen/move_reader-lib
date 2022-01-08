@@ -3,5 +3,11 @@ Bibliothèque permettant de lire l'accélération / vitesse / position d'un Syst
 
 Lecture réalisée à partir d'une centrale inertielle MPU9250
 
-Programmation Orientée Objet sur Système Embarqué
-C / C++ / Arduino
+Programmation Orientée Objet sur Système Embarqué : C / C++ / Arduino
+
+Bibliothèques utilisées : 
+- Wire.h
+- Arduino.h
+- iostream
+- vector
+- utility
