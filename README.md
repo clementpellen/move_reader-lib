@@ -11,3 +11,14 @@ Bibliothèques utilisées :
 - iostream
 - vector
 - utility
+
+Les fonctions pensées pour être utilisées simplement par un objet appelant sont celles de la catégorie USE en bas de la classe :
+- use()
+- display()
+- present()
+
+Les pins du PMU9250 se branchent de la façon suivante à un ESP32 :
+- VCC sur le 3.3V
+- GND à la masse
+- SCL/SCLK au pin 22
+- SDA/SDI au pin 21
